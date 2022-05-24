@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["malhare", "gli", [255, 255, 255]],
+		["idiosyncrasy", "van", [255, 255, 255]],
+		["giant-enemy-spider", "mm", [255, 255, 255]],
+		["take-it", "map", [255, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "Spooky Month",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

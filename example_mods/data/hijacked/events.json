@@ -1,0 +1,209 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage2s",
+		"player1": "bf3",
+		"player2": "sun2",
+		"player3": null,
+		"events": [
+			[
+				13714.2857142857,
+				[
+					[
+						"fadeout",
+						"black",
+						"5"
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"Play Animation",
+						"death",
+						"Dad"
+					]
+				]
+			],
+			[
+				48424.1071428572,
+				[
+					[
+						"Change Character",
+						"1",
+						"moon"
+					],
+					[
+						"Play Animation",
+						"appear",
+						"Dad"
+					]
+				]
+			],
+			[
+				49714.2857142857,
+				[
+					[
+						"Play Animation",
+						"none",
+						"Dad"
+					]
+				]
+			],
+			[
+				77142.8571428572,
+				[
+					[
+						"Play Animation",
+						"reveal",
+						"Dad"
+					]
+				]
+			],
+			[
+				78857.1428571429,
+				[
+					[
+						"addimage",
+						"mooneffect",
+						""
+					],
+					[
+						"fadeout",
+						"mooneffect",
+						"1"
+					]
+				]
+			],
+			[
+				80035.7142857143,
+				[
+					[
+						"fadein",
+						"mooneffect",
+						"5"
+					]
+				]
+			],
+			[
+				85071.4285714286,
+				[
+					[
+						"fadeout",
+						"mooneffect",
+						"5"
+					]
+				]
+			],
+			[
+				90107.1428571429,
+				[
+					[
+						"fadein",
+						"mooneffect",
+						"5"
+					]
+				]
+			],
+			[
+				95035.7142857143,
+				[
+					[
+						"fadeout",
+						"mooneffect",
+						"5"
+					]
+				]
+			],
+			[
+				99750,
+				[
+					[
+						"fadein",
+						"mooneffect",
+						"5"
+					]
+				]
+			],
+			[
+				105107.142857143,
+				[
+					[
+						"fadeout",
+						"mooneffect",
+						"15"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"fadein",
+						"mooneffect",
+						"16"
+					]
+				]
+			],
+			[
+				126857.142857143,
+				[
+					[
+						"Play Animation",
+						"fall",
+						"Dad"
+					]
+				]
+			],
+			[
+				126964.285714286,
+				[
+					[
+						"fadeout",
+						"mooneffect",
+						"5"
+					]
+				]
+			],
+			[
+				127714.285714286,
+				[
+					[
+						"Play Animation",
+						"none",
+						"Dad"
+					]
+				]
+			],
+			[
+				133714.285714286,
+				[
+					[
+						"Change Character",
+						"1",
+						"jump"
+					]
+				]
+			],
+			[
+				135857.142857143,
+				[
+					[
+						"black",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "bf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "hijacked"
+	}
+}

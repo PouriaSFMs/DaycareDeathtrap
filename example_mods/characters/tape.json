@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				96
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idleout"
+		},
+		{
+			"offsets": [
+				50,
+				96
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "the",
+			"indices": [],
+			"name": "idlein"
+		},
+		{
+			"offsets": [
+				50,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "out",
+			"indices": [],
+			"name": "out"
+		},
+		{
+			"offsets": [
+				50,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "in",
+			"indices": [],
+			"name": "in"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tape",
+	"position": [
+		0,
+		-200
+	],
+	"healthicon": "gli",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		194,
+		84
+	],
+	"camera_position": [
+		-350,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

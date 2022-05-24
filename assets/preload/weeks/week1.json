@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["new-friend", "sun", [255, 255, 255]],
+		["hijacked", "moon", [255, 255, 255]],
+		["skyhacked", "sun3", [255, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"moon",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Hellooooo new friend you sure are up late",
+	"weekBefore": "tutorial",
+	"weekName": "Daycare",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

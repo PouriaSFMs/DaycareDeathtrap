@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1000,
+				-1000
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "breaker",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				20
+			],
+			"anim": "breaker",
+			"fps": 24,
+			"name": "breaker",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rule",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sun3",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

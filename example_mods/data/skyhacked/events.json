@@ -1,0 +1,164 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "stage3s",
+		"player1": "bf7",
+		"player2": "sunny",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"addimage",
+						"skyhacked",
+						""
+					]
+				]
+			],
+			[
+				2400,
+				[
+					[
+						"fadeout",
+						"skyhacked",
+						"1"
+					]
+				]
+			],
+			[
+				16800,
+				[
+					[
+						"Play Animation",
+						"breaker",
+						"Dad"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Change Character",
+						"1",
+						"sun3"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Play Animation",
+						"banned",
+						"Dad"
+					],
+					[
+						"zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"zoom",
+						"0.53",
+						"0.3"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Change Character",
+						"1",
+						"moon2"
+					],
+					[
+						"Add Camera Zoom",
+						"0.15",
+						"0.15"
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"addimage",
+						"orange",
+						""
+					],
+					[
+						"remove image",
+						"skyhacked-tree",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"sun4"
+					],
+					[
+						"fadeout",
+						"orange",
+						"0.5"
+					],
+					[
+						"zoom",
+						"0.7",
+						"0.5"
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"fire"
+					]
+				]
+			],
+			[
+				137992.5,
+				[
+					[
+						"addimage",
+						"gn",
+						""
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"addimage",
+						"orange",
+						""
+					],
+					[
+						"fadeout",
+						"orange",
+						"4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "bf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "skyhacked"
+	}
+}

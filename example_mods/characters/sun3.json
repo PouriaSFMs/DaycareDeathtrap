@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-96
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-341
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				155
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-470,
+				-170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				153,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "banned",
+			"indices": [],
+			"name": "banned"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sun3",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sun3",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		32,
+		4
+	],
+	"camera_position": [
+		-800,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

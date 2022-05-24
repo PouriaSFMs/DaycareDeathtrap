@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle",
+	"image": "moon",
+	"position": [
+		500,
+		220
+	],
+	"scale": 0.65,
+	"confirm_anim": "idle"
+}

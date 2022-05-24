@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jumpscare.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jump0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="jump0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="jump0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="jump0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="jump0004" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="jump0005" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="jump0006" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="jump0007" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="jump0008" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="jump0009" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="jump0010" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="jump0011" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="jump0012" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="jump0013" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="jump0014" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="jump0015" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="jump0016" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="jump0017" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="jump0018" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="jump0019" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="jump0020" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="jump0021" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="jump0022" x="2560" y="2880" width="1280" height="720"/>
+	<SubTexture name="jump0023" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="jump0024" x="5120" y="2880" width="1280" height="720"/>
+	<SubTexture name="jump0025" x="0" y="3600" width="1280" height="720"/>
+	<SubTexture name="jump0026" x="1280" y="3600" width="1280" height="720"/>
+	<SubTexture name="jump0027" x="2560" y="3600" width="1280" height="720"/>
+	<SubTexture name="jump0028" x="3840" y="3600" width="1280" height="720"/>
+	<SubTexture name="jump0029" x="5120" y="3600" width="1280" height="720"/>
+	<SubTexture name="jump0030" x="0" y="4320" width="1280" height="720"/>
+	<SubTexture name="jump0031" x="1280" y="4320" width="1280" height="720"/>
+	<SubTexture name="jump0032" x="2560" y="4320" width="1280" height="720"/>
+	<SubTexture name="jump0033" x="3840" y="4320" width="1280" height="720"/>
+	<SubTexture name="jump0034" x="5120" y="4320" width="1280" height="720"/>
+	<SubTexture name="jump0035" x="0" y="5040" width="1280" height="720"/>
+	<SubTexture name="jump0036" x="1280" y="5040" width="1280" height="720"/>
+	<SubTexture name="jump0037" x="2560" y="5040" width="1280" height="720"/>
+	<SubTexture name="jump0038" x="3840" y="5040" width="1280" height="720"/>
+	<SubTexture name="jump0039" x="5120" y="5040" width="1280" height="720"/>
+	<SubTexture name="jump0040" x="0" y="5760" width="1280" height="720"/>
+	<SubTexture name="jump0041" x="1280" y="5760" width="1280" height="720"/>
+	<SubTexture name="jump0042" x="2560" y="5760" width="1280" height="720"/>
+	<SubTexture name="jump0043" x="3840" y="5760" width="1280" height="720"/>
+	<SubTexture name="jump0044" x="5120" y="5760" width="1280" height="720"/>
+	<SubTexture name="jump0045" x="0" y="6480" width="1280" height="720"/>
+	<SubTexture name="jump0046" x="1280" y="6480" width="1280" height="720"/>
+	<SubTexture name="jump0047" x="2560" y="6480" width="1280" height="720"/>
+	<SubTexture name="jump0048" x="3840" y="6480" width="1280" height="720"/>
+	<SubTexture name="jump0049" x="5120" y="6480" width="1280" height="720"/>
+	<SubTexture name="jump0050" x="0" y="7200" width="1280" height="720"/>
+	<SubTexture name="jump0051" x="1280" y="7200" width="1280" height="720"/>
+</TextureAtlas>

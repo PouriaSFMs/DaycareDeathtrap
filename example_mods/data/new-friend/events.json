@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "stage1s",
+		"player1": "bf2",
+		"player2": "sun",
+		"player3": null,
+		"events": [
+			[
+				7358.49056603774,
+				[
+					[
+						"addimage",
+						"cock1",
+						""
+					]
+				]
+			],
+			[
+				8773.58490566038,
+				[
+					[
+						"fadeout",
+						"cock1",
+						"0.5"
+					]
+				]
+			],
+			[
+				34952.8301886793,
+				[
+					[
+						"addimage",
+						"cat",
+						""
+					]
+				]
+			],
+			[
+				35518.8679245283,
+				[
+					[
+						"fadeout",
+						"cat",
+						"0.5"
+					]
+				]
+			],
+			[
+				53207.5471698113,
+				[
+					[
+						"addimage",
+						"dog",
+						""
+					]
+				]
+			],
+			[
+				54339.6226415094,
+				[
+					[
+						"fadeout",
+						"dog",
+						"0.5"
+					]
+				]
+			],
+			[
+				72452.8301886792,
+				[
+					[
+						"addimage",
+						"cock2",
+						""
+					]
+				]
+			],
+			[
+				73867.9245283019,
+				[
+					[
+						"fadeout",
+						"cock2",
+						"0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "bf",
+		"bpm": 106,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "new-friend"
+	}
+}

@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				-48
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				-264
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				158
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-35
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				280,
+				155
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-110,
+				-572
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "RIGHT alt"
+		},
+		{
+			"offsets": [
+				-110,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "appear",
+			"indices": [],
+			"name": "appear"
+		},
+		{
+			"offsets": [
+				151,
+				308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reveal",
+			"indices": [],
+			"name": "reveal"
+		},
+		{
+			"offsets": [
+				-85,
+				-526
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "LEFT alt"
+		},
+		{
+			"offsets": [
+				-111,
+				-372
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "UP alt"
+		},
+		{
+			"offsets": [
+				0,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fall",
+			"indices": [],
+			"name": "fall"
+		},
+		{
+			"offsets": [
+				-111,
+				-579
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "DOWN alt"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "none",
+			"fps": 24,
+			"name": "none",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-110,
+				-400
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "the",
+			"loop": false,
+			"name": "the"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/moon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "moon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		153
+	],
+	"camera_position": [
+		-30,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

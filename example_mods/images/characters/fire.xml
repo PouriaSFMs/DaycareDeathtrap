@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire0000" x="0" y="0" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0001" x="880" y="0" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0002" x="1760" y="0" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0003" x="0" y="0" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0004" x="880" y="0" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0005" x="1760" y="0" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0006" x="2640" y="0" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0007" x="3522" y="0" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0008" x="4404" y="0" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0009" x="2640" y="0" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0010" x="3522" y="0" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0011" x="4404" y="0" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0012" x="5286" y="0" width="882" height="1602" frameX="-100" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0013" x="6168" y="0" width="882" height="1602" frameX="-100" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0014" x="7050" y="0" width="882" height="1602" frameX="-100" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0015" x="5286" y="0" width="882" height="1602" frameX="-100" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0016" x="6168" y="0" width="882" height="1602" frameX="-100" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0017" x="0" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0018" x="882" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0019" x="1764" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0020" x="0" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0021" x="882" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0022" x="2646" y="1622" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0023" x="3526" y="1622" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0024" x="4406" y="1622" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0025" x="2646" y="1622" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0026" x="5286" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0027" x="6168" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0028" x="7050" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0029" x="5286" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0030" x="0" y="3244" width="882" height="1602" frameX="-100" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0031" x="882" y="3244" width="882" height="1602" frameX="-100" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0032" x="1764" y="3244" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0033" x="2646" y="3244" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0034" x="2646" y="1622" width="880" height="1600" frameX="-100" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0035" x="5286" y="1622" width="882" height="1622" frameX="-100" frameY="0" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0036" x="0" y="3244" width="882" height="1602" frameX="-100" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0037" x="3528" y="3244" width="982" height="1622"/>
+	<SubTexture name="fire0038" x="4510" y="3244" width="980" height="1600" frameX="0" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0039" x="5490" y="3244" width="982" height="1622"/>
+	<SubTexture name="fire0040" x="6472" y="3244" width="982" height="1602" frameX="0" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0041" x="0" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0042" x="982" y="4866" width="980" height="1600" frameX="0" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0043" x="1962" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0044" x="2944" y="4866" width="982" height="1602" frameX="0" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0045" x="3926" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0046" x="4908" y="4866" width="980" height="1600" frameX="0" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0047" x="5888" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0048" x="6870" y="4866" width="982" height="1602" frameX="0" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0049" x="3528" y="3244" width="982" height="1622"/>
+	<SubTexture name="fire0050" x="4510" y="3244" width="980" height="1600" frameX="0" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0051" x="5490" y="3244" width="982" height="1622"/>
+	<SubTexture name="fire0052" x="6472" y="3244" width="982" height="1602" frameX="0" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0053" x="0" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0054" x="982" y="4866" width="980" height="1600" frameX="0" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0055" x="1962" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0056" x="2944" y="4866" width="982" height="1602" frameX="0" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0057" x="3926" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0058" x="4908" y="4866" width="980" height="1600" frameX="0" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0059" x="5888" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0060" x="6870" y="4866" width="982" height="1602" frameX="0" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0061" x="3528" y="3244" width="982" height="1622"/>
+	<SubTexture name="fire0062" x="4510" y="3244" width="980" height="1600" frameX="0" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0063" x="5490" y="3244" width="982" height="1622"/>
+	<SubTexture name="fire0064" x="6472" y="3244" width="982" height="1602" frameX="0" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0065" x="0" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0066" x="982" y="4866" width="980" height="1600" frameX="0" frameY="-22" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0067" x="1962" y="4866" width="982" height="1622"/>
+	<SubTexture name="fire0068" x="2944" y="4866" width="982" height="1602" frameX="0" frameY="-20" frameWidth="982" frameHeight="1622"/>
+	<SubTexture name="fire0069" x="3926" y="4866" width="982" height="1622"/>
+</TextureAtlas>
